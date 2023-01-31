@@ -1,0 +1,7 @@
+name = "Aityk Musaev"
+branch = "Computer Science"
+age = "21"
+print("My name is: ", name, )
+print("My age is: ", )
+#Print выведет информация на экран
+
